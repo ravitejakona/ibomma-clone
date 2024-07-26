@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_.css">
+    <title>ibomma</title>
+    <link rel="stylesheet" hrel="<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="logo.png" alt="logo" width="180px" height="70px">
+        </div>
+        <div class="nav-items">
+            <a href="#"><i class="fa-solid fa-user-minus"></i>about</a>
+            <a href="#"><i class="fa-solid fa-bug"></i>bug report</a>
+            <a href="#"><i class="fa-solid fa-address-card"></i>contact</a>
+        </div>
+        <form action="#">
+            <input type="search" class="search-data" placeholder="search" required></input>
+            <button type="submit" class="fas fa-search"></button>
+        </form>
+    </nav>
+    <div class="content">
+        <h1>where Quality And Clarity Matter</h1>
+        <p>watch the movies without the language barrier<br>
+        watch and download from the ibomma</p>
+        <p><i class="fa-solid fa-star"></i>&nbsp;remove the browser cache, reload</p>
+        <img src="underline.png" alt=under-img class="underline">
+    </div>
+    <section class="movie-items">
+        <!--first row of movie list-->
+        <div class="row">
+            <div class="col">
+                <img src="leo.jpeg" alt="">
+                <h4>LEO</h4>
+                <p>2023</p>
+            </div>
+            <div class="col">
+                <img src="kalki.jpeg" alt="">
+                <h4>KALKI</h4>
+                <p>2024</p>
+            </div>
+            <div class="col">
+                <img src="premam.jpeg" alt="">
+                <h4>PREMAM</h4>
+                <p>2017</p>
+            </div>
+            <div class="col">
+                <img src="salaar.jpeg" alt="">
+                <h4>SAALAR</h4>
+                <p>2023</p>
+            </div>
+            <div class="col">
+                <img src="mirchi.jpeg" alt="">
+                <h4>MIRCHI</h4>
+                <p>2013</p>
+            
+            </div>
+        </div>
+
+        <!--second row of movie list-->
+
+        <div class="row">
+            <div class="col">
+                <img src="adhipurush.jpeg" alt="">
+                <h4>ADHIPURUSH</h4>
+                <p>2023</p>
+            </div>
+            <div class="col">
+                <img src="puspha.jpg" alt="">
+                <h4>PUSPHA</h4>
+                <p>2022</p>
+            </div>
+            <div class="col">
+                <img src="rrr.jpeg" alt="">
+                <h4>RRR</h4>
+                <p>2021</p>
+            </div>
+            <div class="col">
+                <img src="master.jpg" alt="">
+                <h4>MASTER</h4>
+                <p>2021</p>
+            </div>
+            <div class="col">
+                <img src="oye.jpg" alt="">
+                <h4>OYE</h4>
+                <p>2010</p>
+            
+            </div>
+        </div>
+
+        <!--third row of movie list-->
+
+        <div class="row">
+            <div class="col">
+                <img src="orange.avif" alt="">
+                <h4>ORANGE</h4>
+                <p>2023</p>
+            </div>
+            <div class="col">
+                <img src="devara.jpg" alt="">
+                <h4>DEVARA</h4>
+                <p>2023</p>
+            </div>
+            <div class="col">
+                <img src="pb.jpg" alt="">
+                <h4>SPRITE</h4>
+                <p>2023</p>
+            </div>
+        </div>
+        <!--fourth row-->
+        <div class row="row">
+            <div class="col">
+                <img src="avengers.avif" alt="">
+                <p>AVENGERS</p>
+                <P>2019</P>
+            </div>
+        </div>
+
+    </section>
+
+</body>
+</html>
